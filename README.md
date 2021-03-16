@@ -8,6 +8,11 @@ This is a custom wordpress gutenberg block created using **@wordpress/create-blo
 
 #### Screenshots
 
+![Screenshot from 2021-03-16 13-36-32](https://user-images.githubusercontent.com/22026768/111275924-bb27e800-865c-11eb-81ec-af0a93ec7b75.png)
+![Screenshot from 2021-03-16 13-36-50](https://user-images.githubusercontent.com/22026768/111275928-bbc07e80-865c-11eb-9ba2-e5bd304b2fd5.png)
+![Screenshot from 2021-03-16 13-37-09](https://user-images.githubusercontent.com/22026768/111275932-bc591500-865c-11eb-8cbe-45b51f309e7e.png)
+
+
 #### How to use
 1. Download the repo.
 2. Create a post-snip folder in your wordpress instalation's plugins folder.
