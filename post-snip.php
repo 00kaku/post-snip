@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name:     Post Snip
- * Description:     Example block written with ESNext standard and JSX support – build step required.
+ * Description:     A bloxk to create grids of recent/popular posts.
  * Version:         0.1.0
- * Author:          The WordPress Contributors
+ * Author:          Akash Sharma
  * License:         GPL-2.0-or-later
  * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:     post-snip
