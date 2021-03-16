@@ -7,10 +7,8 @@ This is a custom wordpress gutenberg block created using **@wordpress/create-blo
 ###### Sass is used for the styling.
 
 #### Screenshots
-![Screenshot from 2021-03-16 13-32-57](https://user-images.githubusercontent.com/22026768/111275555-481e7180-865c-11eb-82b5-a97e44200d5a.png)
 ![Screenshot from 2021-03-16 13-33-25](https://user-images.githubusercontent.com/22026768/111275560-48b70800-865c-11eb-87c0-ae8730100220.png)
 ![Screenshot from 2021-03-16 13-33-55](https://user-images.githubusercontent.com/22026768/111275563-494f9e80-865c-11eb-9da7-a1abcdc7f1b9.png)
-
 
 #### How to use
 1.Download the repo.
