@@ -49,7 +49,7 @@ registerBlockType("create-block/post-snip", {
 	 * It will be shown in the Block Tab in the Settings Sidebar.
 	 */
 	description: __(
-		"Example block written with ESNext standard and JSX support – build step required.",
+		"A bloxk to create grids of recent/popular posts",
 		"post-snip"
 	),
 
